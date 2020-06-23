@@ -1,0 +1,11 @@
+
+public abstract class Earth extends Planet {
+
+//	void re() {
+//		
+//	}
+	
+	protected void ro() {
+		
+	}
+}

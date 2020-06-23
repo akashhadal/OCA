@@ -1,0 +1,11 @@
+
+public class Q23 {
+
+	public static void main(String[] args) {
+		int x=100;
+		int a=x++;
+		int b=++x;
+		System.out.println(a);
+		System.out.println(b);
+	}
+}

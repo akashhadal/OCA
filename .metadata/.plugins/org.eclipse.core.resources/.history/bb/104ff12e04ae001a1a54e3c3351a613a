@@ -1,0 +1,10 @@
+
+public class Q29 {
+
+	public static void main(String[] args) {
+		int[] array= new int[2];	
+		array[0] = 10;
+		array[1] =20;
+		
+	}
+}

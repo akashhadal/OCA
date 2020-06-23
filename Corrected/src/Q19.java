@@ -1,0 +1,18 @@
+
+public class Q19 {
+
+	void readCard(int cardNo) throws Exception{
+		System.out.println("Reading Card");
+	}
+	
+	void checkCard(int cardNo) throws RuntimeException{
+		System.out.println("Checking Card");
+	}
+	
+	public static void main(String[] args) {
+		Q19 x=new Q19();
+		int cardNo=123;
+		x.checkCard(cardNo);
+		//x.readCard(cardNo);
+	}	
+}

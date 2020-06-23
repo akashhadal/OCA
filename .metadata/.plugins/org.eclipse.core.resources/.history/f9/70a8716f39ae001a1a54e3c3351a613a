@@ -1,0 +1,13 @@
+import javax.swing.text.MaskFormatter;
+
+public class Q42 {
+
+	private static String maskCC(String cerditCard) {
+		String x="XXXX-XXXX-XXXX-";
+		
+	}
+	
+	public static void main(String[] args) {
+		System.out.println(Q42("1234-1234-5678-3214"));
+	}
+}
